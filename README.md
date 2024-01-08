@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects in general
 - 📫 How to reach me
    whatsapp
-  +234 8082020006
+  +234-8082020006
   email- ekunday00@outlook.com 
 
 <!---
