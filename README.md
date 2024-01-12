@@ -1,4 +1,4 @@
-- 👋 Hi, I’m EmmanuelEkundayo
+- 👋 Hi, I’m Emmanuel Ekundayo
 - 👀 I’m interested in back end developement
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on projects in general
