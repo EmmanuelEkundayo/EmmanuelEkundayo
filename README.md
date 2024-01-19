@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel Ekundayo
-- 👀 I’m interested in back end developement
+- 👀 I’m interested in web developement
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on projects in general
 - 📫 How to reach me
