@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Ekundayo
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on projects in general
+- 💞️ I’m looking to collaborate ongames and front end projects
 - 📫 How to reach me
 whatsapp 
 +234 808 2020 006
