@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate ongames and front end projects
 - 📫 How to reach me
-whatsapp
+whatsapp 
 +234 808 2020 006
 email- ekunday00@outlook.com 
 
