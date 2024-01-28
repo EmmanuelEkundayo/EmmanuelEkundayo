@@ -5,7 +5,7 @@
 - 📫 How to reach me
 WhatsApp 
 +234 808 202 0006 
-email- ekunday00@outlook.com
+email- ekunday00@outlook.com 
  
 <!---
 EmmanuelEkundayo/EmmanuelEkundayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
