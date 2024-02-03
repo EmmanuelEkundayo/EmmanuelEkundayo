@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Ekundayo
 - 👀 I’m interested in web developement 
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate ongames and front end projects
+- 💞️ I’m looking to collaborate ongames and front end projects 
 - 📫 How to reach me
 WhatsApp  
 +234 808 202 0006  
